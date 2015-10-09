@@ -1,6 +1,7 @@
 
 import psutil
 
+print psutil.cpu_percent()
 print psutil.cpu_times().user
 print psutil.cpu_times().nice
 print psutil.cpu_times().system
