@@ -18,4 +18,3 @@ for i in  psutil.cpu_times_percent(interval=1, percpu=True):
 
 print "cpu numbers: ", psutil.cpu_count(logical=True)
 
-

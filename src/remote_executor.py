@@ -11,6 +11,7 @@ def echo_slam(hostname='', username='',password='', port=22,
         '''dota2 earthshaker the fouth skill,
         exec command on linux or unix use paramiko. 
         '''
+
     try:
         paramiko.util.log_to_file(logfile)
         sshclient = paramiko.SSHClient()
