@@ -19,9 +19,13 @@ class PasswdGenerator(object):
         pass_str = ""
 
         if self.passwd_length == None:
+
             return None
+
         else :
+
             while(True):
+
                 lower_pass = random.sample(self.lowercase, 1)
                 upper_pass = random.sample(self.uppercase, 1)
                 digit_pass = random.sample(self.digits, 1)

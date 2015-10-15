@@ -1,5 +1,5 @@
-
 # encoding:utf8
+
 import datetime
 import sys
 
@@ -8,8 +8,9 @@ import paramiko
 def echo_slam(hostname='', username='',password='', port=22,
                 logfile='/tmp' + str(datetime.date.today()) + "echo_slam.log",
                 command='')
+
         '''dota2 earthshaker the fouth skill,
-        exec command on linux or unix use paramiko. 
+        exec command on linux or unix use paramiko.
         '''
 
     try:

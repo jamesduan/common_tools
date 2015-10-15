@@ -2,7 +2,9 @@
 import paramiko
 
 class SFtpManager(object):
+
     ''' sftp manager for linux or unix.'''
+
     def __init__(self, host='', port=22, username='', password=''):
         args = (host, port)
         self.t = paramiko.Transport(args)
@@ -24,3 +26,4 @@ class SFtpManager(object):
 
     def __del__(self):
         self.t.close()
+
