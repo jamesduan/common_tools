@@ -1,0 +1,128 @@
+
+This Provider include these function or module in follow steps:
+
+step1 - install php(>=5.6) runtime:
+	
+	prepare: 
+
+		(1) shell script: 
+
+			atomic   	# for downloading atomic repostory file and verify yum command is installed.
+				     	# check os system version.
+
+		(2) execute script(atomic)
+
+			command:
+
+				[mtagent@localhost ~]$ sudo bash atomic
+	
+		(3) prepare yum repo cache : 
+
+			command: 
+				
+				[mtagent@localhost ~]$ sudo yum clean all & yum make cache
+
+	install:
+		
+		(1) command: yum -y install atomic-php56-php.x86_64 atomic-php56-php-cli.x86_64 atomic-php56-php-common.x86_64 atomic-php56-php-devel.x86_64 atomic-php56-php-fpm.x86_64 atomic-php56-php-mysqlnd.x86_64 atomic-php56-php-pdo.x86_64 * all 
+		# default php version is 5.6.11 in atomic repo server
+		 
+		(2) verify execute:
+
+			command: 
+				
+				[mtagent@localhost ~]$ /opt/atomic/atomic-php56/root/usr/bin/php -v
+
+			result is :
+			
+				********************************************************************
+					PHP 5.6.11 (cli) (built: Jul 13 2015 09:47:26) 
+					Copyright (c) 1997-2015 The PHP Group
+					Zend Engine v2.6.0, Copyright (c) 1998-2015 Zend Technologies
+				********************************************************************
+
+		(3) setup php environment:
+			
+			command: 
+
+				[mtagent@localhost ~]$ echo "export PHP_HOME=/opt/atomic/atomic-php56/root" >> ~/.bashrc  * 注意chef是否将其改变回去
+				
+			command: 
+				
+				[mtagent@localhost ~]$ echo "export PATH=$PATH:$PHP_HOME/usr/bin" >> ~/.bashrc
+
+
+		(4) setup php-fpm
+			
+			setup config file: $PHP_HOME/etc/php-fpm.conf
+			
+			setup start/stop/status management script:
+				
+				copy the executive file main/php56-fpm to dist host:
+				/etc/init.d/php56-fpm      remote access.
+
+			
+	verify:
+
+		(1) verify php runtime:
+
+			command: [mtagent@localhost ~]$ php -v 
+				
+			result :
+				
+				********************************************************************
+					PHP 5.6.11 (cli) (built: Jul 13 2015 09:47:26) 
+					Copyright (c) 1997-2015 The PHP Group
+					Zend Engine v2.6.0, Copyright (c) 1998-2015 Zend Technologies
+				********************************************************************
+
+			if you see that , that's ok!
+
+		(2) verify php-fpm :
+
+			verify binary:
+
+				command :  [mtagent@localhost ~]$ ls $PHP_HOME/usr/sbin/php-fpm 
+
+			if result contains a error 'No such file or Directory', then try
+			step prepare and install again.
+
+			verify config:
+				
+				check config file: 
+					
+					$PHP_HOME/etc/php-fpm.conf    * 按照公司需求更改
+					
+					modify the value of variables like "pid, error_log " in
+					global section. insure that path is correct and valid.
+					
+			verify start/stop/status script:
+				
+				command: 
+
+					[mtagent@localhost ~]$ /etc/init.d/php56-fpm start 
+					[mtagent@localhost ~]$ /etc/init.d/php56-fpm status
+					[mtagent@localhost ~]$ /etc/init.d/php56-fpm stop
+					[mtagent@localhost ~]$ /etc/init.d/php56-fpm restart
+				
+step2 - install tool(laravel framework)
+
+	prepare:
+		
+		binary file provided by xiaofei(0261)  
+		
+	install:
+		
+		you can extract compressed file to any directory you want.
+		
+	setup environment:
+		
+		command: 
+
+			[mtagent@localhost ~]$ echo "export LARAVEL_HOME=/opt/magima/laravel" >> ~/.bashrc
+			[mtagent@localhost ~]$ echo "export PATH=$LARAVEL_HOME/bin:$PATH" >> ~/.bashrc
+
+	verify:
+		
+		execute laravel command to create a test project
+

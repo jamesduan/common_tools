@@ -1,0 +1,1034 @@
+2015-07-20 17:21:14,698  bocLogger  ERROR: please use root privilege to exec.
+2015-07-20 17:21:29,347  bocLogger  INFO: Create File Ok.
+2015-07-21 10:20:02,796  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 10:20:03,354  bocLogger  ERROR: httpd is not exists!
+2015-07-21 10:20:03,355  bocLogger  INFO: passed!
+2015-07-21 10:20:03,865  bocLogger  ERROR: php is not exists!
+2015-07-21 10:20:03,866  bocLogger  INFO: passed!
+2015-07-21 10:20:04,671  bocLogger  INFO: % is already installed. please remove before.
+2015-07-21 10:21:20,519  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 10:21:21,360  bocLogger  INFO: httpd is not exists!
+2015-07-21 10:21:21,361  bocLogger  INFO: passed!
+2015-07-21 10:21:21,880  bocLogger  INFO: php is not exists!
+2015-07-21 10:21:21,881  bocLogger  INFO: passed!
+2015-07-21 10:21:22,372  bocLogger  INFO: % is already installed. please remove before.
+2015-07-21 10:21:57,320  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 10:21:57,841  bocLogger  INFO: httpd is not exists!
+2015-07-21 10:21:57,841  bocLogger  INFO: passed!
+2015-07-21 10:21:58,329  bocLogger  INFO: php is not exists!
+2015-07-21 10:21:58,330  bocLogger  INFO: passed!
+2015-07-21 10:21:58,822  bocLogger  INFO: php-pear is already installed. please remove before.
+2015-07-21 10:23:44,085  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 10:23:45,088  bocLogger  INFO: httpd is not exists!
+2015-07-21 10:23:45,089  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:23:45,600  bocLogger  INFO: php is not exists!
+2015-07-21 10:23:45,600  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:23:46,086  bocLogger  INFO: [31mphp-pear is already installed. please remove before.[0m
+2015-07-21 10:24:47,842  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 10:24:48,356  bocLogger  INFO: httpd is not exists!
+2015-07-21 10:24:48,356  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:24:48,855  bocLogger  INFO: php is not exists!
+2015-07-21 10:24:48,856  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:24:49,348  bocLogger  INFO: [31mphp-pear is already installed. please remove before.[0m
+2015-07-21 10:25:12,198  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 10:25:12,704  bocLogger  INFO: httpd is not exists!
+2015-07-21 10:25:12,705  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:25:13,199  bocLogger  INFO: php is not exists!
+2015-07-21 10:25:13,200  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:25:13,695  bocLogger  INFO: php-pear is not exists!
+2015-07-21 10:25:13,696  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:25:14,224  bocLogger  INFO: [31mcurl is already installed. please remove before.[0m
+2015-07-21 10:28:19,204  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 10:28:20,138  bocLogger  INFO: httpd is not exists!
+2015-07-21 10:28:20,139  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:28:20,767  bocLogger  INFO: php is not exists!
+2015-07-21 10:28:20,768  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:28:21,252  bocLogger  INFO: php-pear is not exists!
+2015-07-21 10:28:21,252  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:28:21,975  bocLogger  INFO: [33mcurl is already installed.[0m
+2015-07-21 10:28:37,401  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 10:28:38,243  bocLogger  INFO: httpd is not exists!
+2015-07-21 10:28:38,243  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:28:38,738  bocLogger  INFO: php is not exists!
+2015-07-21 10:28:38,739  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:28:39,227  bocLogger  INFO: php-pear is not exists!
+2015-07-21 10:28:39,227  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:28:39,715  bocLogger  WARNING: [33mcurl is already installed.[0m
+2015-07-21 10:37:43,151  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 10:37:44,197  bocLogger  INFO: httpd is not exists!
+2015-07-21 10:37:44,198  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:37:45,077  bocLogger  INFO: php is not exists!
+2015-07-21 10:37:45,077  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:37:45,569  bocLogger  INFO: php-pear is not exists!
+2015-07-21 10:37:45,570  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:37:46,057  bocLogger  WARNING: [33mcurl is already installed.[0m
+2015-07-21 10:37:46,058  bocLogger  INFO: step1: install rpms.
+2015-07-21 10:37:46,233  bocLogger  ERROR: exec: yum -y install httpd error
+2015-07-21 10:38:02,790  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 10:38:03,300  bocLogger  INFO: httpd is not exists!
+2015-07-21 10:38:03,300  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:38:03,841  bocLogger  INFO: php is not exists!
+2015-07-21 10:38:03,842  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:38:04,385  bocLogger  INFO: php-pear is not exists!
+2015-07-21 10:38:04,386  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:38:04,898  bocLogger  WARNING: [33mcurl is already installed.[0m
+2015-07-21 10:38:04,898  bocLogger  INFO: step1: install rpms.
+2015-07-21 10:38:32,718  bocLogger  ERROR: exec: yum -y install httpd error
+2015-07-21 10:39:12,254  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 10:39:12,802  bocLogger  INFO: httpd is not exists!
+2015-07-21 10:39:12,803  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:39:13,302  bocLogger  INFO: php is not exists!
+2015-07-21 10:39:13,302  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:39:13,809  bocLogger  INFO: php-pear is not exists!
+2015-07-21 10:39:13,810  bocLogger  INFO: [32mpassed![0m
+2015-07-21 10:39:14,308  bocLogger  WARNING: [33mcurl is already installed.[0m
+2015-07-21 10:39:14,309  bocLogger  INFO: step1: install rpms.
+2015-07-21 10:41:22,667  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 10:41:23,381  bocLogger  WARNING: [33mhttpd is already installed.[0m
+2015-07-21 10:41:23,898  bocLogger  WARNING: [33mphp is already installed.[0m
+2015-07-21 10:41:24,421  bocLogger  WARNING: [33mphp-pear is already installed.[0m
+2015-07-21 10:41:24,956  bocLogger  WARNING: [33mcurl is already installed.[0m
+2015-07-21 10:41:24,956  bocLogger  INFO: step1: install rpms.
+2015-07-21 10:41:58,390  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 10:41:58,893  bocLogger  WARNING: [33mhttpd is already installed.[0m
+2015-07-21 10:41:59,407  bocLogger  WARNING: [33mphp is already installed.[0m
+2015-07-21 10:41:59,922  bocLogger  WARNING: [33mphp-pear is already installed.[0m
+2015-07-21 10:42:00,435  bocLogger  WARNING: [33mcurl is already installed.[0m
+2015-07-21 10:42:00,436  bocLogger  INFO: step1: install rpms.
+2015-07-21 10:42:53,991  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 10:42:54,983  bocLogger  WARNING: [33mhttpd is already installed.[0m
+2015-07-21 10:42:55,789  bocLogger  WARNING: [33mphp is already installed.[0m
+2015-07-21 10:42:56,287  bocLogger  WARNING: [33mphp-pear is already installed.[0m
+2015-07-21 10:42:56,783  bocLogger  WARNING: [33mcurl is already installed.[0m
+2015-07-21 10:42:56,784  bocLogger  INFO: step1: install rpms.
+2015-07-21 10:44:31,655  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 10:44:32,198  bocLogger  WARNING: httpd is already installed.
+2015-07-21 10:44:32,729  bocLogger  WARNING: php is already installed.
+2015-07-21 10:44:33,282  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 10:44:33,832  bocLogger  WARNING: curl is already installed.
+2015-07-21 10:44:33,833  bocLogger  INFO: step1: install rpms.
+2015-07-21 15:47:39,664  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 15:47:41,115  bocLogger  WARNING: httpd is already installed.
+2015-07-21 15:47:42,106  bocLogger  WARNING: php is already installed.
+2015-07-21 15:47:42,595  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 15:47:43,076  bocLogger  WARNING: curl is already installed.
+2015-07-21 15:47:43,076  bocLogger  INFO: step1: install rpms.
+2015-07-21 15:47:43,254  bocLogger  ERROR: exec: yum -y install httpd php php-pear curl error
+2015-07-21 15:47:59,095  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 15:47:59,649  bocLogger  WARNING: httpd is already installed.
+2015-07-21 15:48:00,183  bocLogger  WARNING: php is already installed.
+2015-07-21 15:48:00,705  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 15:48:01,246  bocLogger  WARNING: curl is already installed.
+2015-07-21 15:48:01,246  bocLogger  INFO: step1: install rpms.
+2015-07-21 15:48:02,552  bocLogger  INFO: step2: install zip files.
+2015-07-21 15:48:02,556  bocLogger  INFO: Create directory done.
+2015-07-21 15:48:17,751  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 15:48:18,658  bocLogger  WARNING: httpd is already installed.
+2015-07-21 15:48:19,171  bocLogger  WARNING: php is already installed.
+2015-07-21 15:48:19,858  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 15:48:20,663  bocLogger  WARNING: curl is already installed.
+2015-07-21 15:48:20,664  bocLogger  INFO: step1: install rpms.
+2015-07-21 15:48:21,823  bocLogger  INFO: step2: install zip files.
+2015-07-21 15:48:21,824  bocLogger  INFO: Create directory done.
+2015-07-21 15:51:28,934  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 15:51:29,769  bocLogger  WARNING: httpd is already installed.
+2015-07-21 15:51:30,269  bocLogger  WARNING: php is already installed.
+2015-07-21 15:51:30,759  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 15:51:31,473  bocLogger  WARNING: curl is already installed.
+2015-07-21 15:51:31,474  bocLogger  INFO: step1: install rpms.
+2015-07-21 15:51:32,693  bocLogger  INFO: step2: install zip files.
+2015-07-21 15:51:32,693  bocLogger  INFO: install bocwebapp.
+2015-07-21 15:51:32,694  bocLogger  INFO: Create directory done.
+2015-07-21 15:51:46,913  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 15:51:47,447  bocLogger  WARNING: httpd is already installed.
+2015-07-21 15:51:47,962  bocLogger  WARNING: php is already installed.
+2015-07-21 15:51:48,471  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 15:51:48,977  bocLogger  WARNING: curl is already installed.
+2015-07-21 15:51:48,978  bocLogger  INFO: step1: install rpms.
+2015-07-21 15:51:49,806  bocLogger  INFO: step2: install zip files.
+2015-07-21 15:51:49,806  bocLogger  INFO: install bocwebapp.
+2015-07-21 15:51:49,807  bocLogger  INFO: Create directory done.
+2015-07-21 16:01:47,207  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 16:01:48,155  bocLogger  WARNING: httpd is already installed.
+2015-07-21 16:01:48,664  bocLogger  WARNING: php is already installed.
+2015-07-21 16:01:49,194  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 16:01:49,727  bocLogger  WARNING: curl is already installed.
+2015-07-21 16:01:49,728  bocLogger  INFO: step1: install rpms.
+2015-07-21 16:01:51,072  bocLogger  INFO: step2: install zip files.
+2015-07-21 16:01:51,073  bocLogger  INFO: install bocwebapp.
+2015-07-21 16:01:51,074  bocLogger  INFO: Create directory done.
+2015-07-21 16:04:38,957  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 16:04:39,479  bocLogger  WARNING: httpd is already installed.
+2015-07-21 16:04:40,079  bocLogger  WARNING: php is already installed.
+2015-07-21 16:04:40,837  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 16:04:41,339  bocLogger  WARNING: curl is already installed.
+2015-07-21 16:04:41,340  bocLogger  INFO: step1: install rpms.
+2015-07-21 16:04:42,185  bocLogger  INFO: step2: install zip files.
+2015-07-21 16:04:42,185  bocLogger  INFO: install bocwebapp.
+2015-07-21 16:04:42,186  bocLogger  INFO: Create directory done.
+2015-07-21 16:05:11,913  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 16:05:12,453  bocLogger  WARNING: httpd is already installed.
+2015-07-21 16:05:12,986  bocLogger  WARNING: php is already installed.
+2015-07-21 16:05:13,525  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 16:05:14,060  bocLogger  WARNING: curl is already installed.
+2015-07-21 16:05:14,060  bocLogger  INFO: step1: install rpms.
+2015-07-21 16:05:14,984  bocLogger  INFO: step2: install zip files.
+2015-07-21 16:05:14,985  bocLogger  INFO: install bocwebapp.
+2015-07-21 16:05:15,010  bocLogger  INFO: Create directory done.
+2015-07-21 16:06:05,619  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 16:06:06,126  bocLogger  WARNING: httpd is already installed.
+2015-07-21 16:06:07,079  bocLogger  WARNING: php is already installed.
+2015-07-21 16:06:07,589  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 16:06:08,106  bocLogger  WARNING: curl is already installed.
+2015-07-21 16:06:08,106  bocLogger  INFO: step1: install rpms.
+2015-07-21 16:06:09,010  bocLogger  INFO: step2: install zip files.
+2015-07-21 16:06:09,011  bocLogger  INFO: install bocwebapp.
+2015-07-21 16:06:09,011  bocLogger  INFO: Create directory done.
+2015-07-21 16:09:19,896  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 16:09:20,425  bocLogger  WARNING: httpd is already installed.
+2015-07-21 16:09:20,955  bocLogger  WARNING: php is already installed.
+2015-07-21 16:09:21,522  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 16:09:22,281  bocLogger  WARNING: curl is already installed.
+2015-07-21 16:09:22,281  bocLogger  INFO: step1: install rpms.
+2015-07-21 16:09:23,120  bocLogger  INFO: step2: install zip files.
+2015-07-21 16:09:23,120  bocLogger  INFO: install mysql.
+2015-07-21 16:09:23,121  bocLogger  INFO: install bocwebapp.
+2015-07-21 16:09:23,147  bocLogger  INFO: Create directory done.
+2015-07-21 16:11:07,772  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 16:11:08,312  bocLogger  WARNING: httpd is already installed.
+2015-07-21 16:11:08,861  bocLogger  WARNING: php is already installed.
+2015-07-21 16:11:09,650  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 16:11:10,253  bocLogger  WARNING: curl is already installed.
+2015-07-21 16:11:10,254  bocLogger  INFO: step1: install rpms.
+2015-07-21 16:11:11,199  bocLogger  INFO: step2: install zip files.
+2015-07-21 16:11:11,200  bocLogger  INFO: install mysql.
+2015-07-21 16:11:41,097  bocLogger  INFO: install bocwebapp.
+2015-07-21 16:11:41,126  bocLogger  INFO: Create directory done.
+2015-07-21 16:25:09,186  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 16:25:09,748  bocLogger  WARNING: httpd is already installed.
+2015-07-21 16:25:10,273  bocLogger  WARNING: php is already installed.
+2015-07-21 16:25:10,779  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 16:25:11,290  bocLogger  WARNING: curl is already installed.
+2015-07-21 16:25:11,291  bocLogger  INFO: step1: install rpms.
+2015-07-21 16:25:12,291  bocLogger  INFO: step2: install zip files.
+2015-07-21 16:25:12,291  bocLogger  INFO: install mysql.
+2015-07-21 16:25:37,175  bocLogger  INFO: done
+2015-07-21 16:25:37,176  bocLogger  INFO: install bocwebapp.
+2015-07-21 16:25:37,205  bocLogger  INFO: Create directory done.
+2015-07-21 16:25:37,205  bocLogger  INFO: done.
+2015-07-21 16:25:37,508  bocLogger  INFO: done.
+2015-07-21 16:38:51,402  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 16:38:51,965  bocLogger  WARNING: httpd is already installed.
+2015-07-21 16:38:52,496  bocLogger  WARNING: php is already installed.
+2015-07-21 16:38:53,036  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 16:38:53,568  bocLogger  WARNING: curl is already installed.
+2015-07-21 16:38:53,568  bocLogger  INFO: step1: install rpms.
+2015-07-21 16:39:14,055  bocLogger  INFO: step2: install zip files.
+2015-07-21 16:39:14,056  bocLogger  INFO: install mysql.
+2015-07-21 16:39:39,605  bocLogger  INFO: done
+2015-07-21 16:39:39,605  bocLogger  INFO: install bocwebapp.
+2015-07-21 16:39:39,634  bocLogger  INFO: done.
+2015-07-21 16:39:39,915  bocLogger  INFO: done.
+2015-07-21 16:39:39,916  bocLogger  INFO: install tomcat.
+2015-07-21 16:39:39,994  bocLogger  INFO: done.
+2015-07-21 16:40:33,474  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 16:40:34,601  bocLogger  WARNING: httpd is already installed.
+2015-07-21 16:40:35,116  bocLogger  WARNING: php is already installed.
+2015-07-21 16:40:35,626  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 16:40:36,142  bocLogger  WARNING: curl is already installed.
+2015-07-21 16:40:36,143  bocLogger  INFO: step1: install rpms.
+2015-07-21 16:40:37,014  bocLogger  INFO: step2: install zip files.
+2015-07-21 16:40:37,015  bocLogger  INFO: install mysql.
+2015-07-21 16:40:41,926  bocLogger  ERROR: exit on user cancel.
+2015-07-21 16:40:41,934  bocLogger  ERROR: [Errno 39] Directory not empty: '/opt/magima/'exit.
+2015-07-21 16:41:09,881  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 16:41:10,931  bocLogger  WARNING: httpd is already installed.
+2015-07-21 16:41:11,630  bocLogger  WARNING: php is already installed.
+2015-07-21 16:41:12,794  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 16:41:13,633  bocLogger  WARNING: curl is already installed.
+2015-07-21 16:41:13,634  bocLogger  INFO: step1: install rpms.
+2015-07-21 16:41:14,557  bocLogger  INFO: step2: install zip files.
+2015-07-21 16:41:14,558  bocLogger  INFO: install mysql.
+2015-07-21 16:41:36,541  bocLogger  INFO: done
+2015-07-21 16:41:36,542  bocLogger  INFO: install bocwebapp.
+2015-07-21 16:41:36,571  bocLogger  INFO: done.
+2015-07-21 16:41:36,877  bocLogger  INFO: done.
+2015-07-21 16:41:36,878  bocLogger  INFO: install tomcat.
+2015-07-21 16:41:36,995  bocLogger  INFO: done.
+2015-07-21 16:52:16,330  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 16:52:17,272  bocLogger  WARNING: httpd is already installed.
+2015-07-21 16:52:17,789  bocLogger  WARNING: php is already installed.
+2015-07-21 16:52:18,304  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 16:52:18,801  bocLogger  WARNING: curl is already installed.
+2015-07-21 16:52:18,802  bocLogger  INFO: step1: install rpms.
+2015-07-21 16:52:19,751  bocLogger  INFO: step2: install zip files.
+2015-07-21 16:52:19,751  bocLogger  INFO: install mysql.
+2015-07-21 16:52:41,795  bocLogger  INFO: done
+2015-07-21 16:52:41,796  bocLogger  INFO: install bocwebapp.
+2015-07-21 16:52:41,868  bocLogger  INFO: done.
+2015-07-21 16:52:42,278  bocLogger  INFO: done.
+2015-07-21 16:52:42,279  bocLogger  INFO: install tomcat.
+2015-07-21 16:52:42,390  bocLogger  INFO: done.
+2015-07-21 16:54:10,503  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 16:54:11,033  bocLogger  WARNING: httpd is already installed.
+2015-07-21 16:54:11,563  bocLogger  WARNING: php is already installed.
+2015-07-21 16:54:12,122  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 16:54:12,653  bocLogger  WARNING: curl is already installed.
+2015-07-21 16:54:12,654  bocLogger  INFO: step1: install rpms.
+2015-07-21 16:54:13,485  bocLogger  INFO: step2: install zip files.
+2015-07-21 16:54:13,485  bocLogger  INFO: install mysql.
+2015-07-21 16:54:35,653  bocLogger  INFO: done
+2015-07-21 16:54:35,653  bocLogger  INFO: install bocwebapp.
+2015-07-21 16:54:35,698  bocLogger  INFO: done.
+2015-07-21 16:54:35,943  bocLogger  INFO: done.
+2015-07-21 16:54:35,944  bocLogger  INFO: install tomcat.
+2015-07-21 16:54:36,040  bocLogger  INFO: done.
+2015-07-21 16:54:36,041  bocLogger  ERROR: create symble linkerror: [Errno 17] File exists
+2015-07-21 17:04:24,679  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-21 17:04:25,210  bocLogger  WARNING: httpd is already installed.
+2015-07-21 17:04:25,753  bocLogger  WARNING: php is already installed.
+2015-07-21 17:04:26,328  bocLogger  WARNING: php-pear is already installed.
+2015-07-21 17:04:26,903  bocLogger  WARNING: curl is already installed.
+2015-07-21 17:04:26,903  bocLogger  INFO: step1: install rpms.
+2015-07-21 17:04:27,758  bocLogger  INFO: step2: install zip files.
+2015-07-21 17:04:27,758  bocLogger  INFO: install mysql.
+2015-07-21 17:04:49,220  bocLogger  INFO: done
+2015-07-21 17:04:49,220  bocLogger  INFO: install bocwebapp.
+2015-07-21 17:04:49,252  bocLogger  INFO: done.
+2015-07-21 17:04:49,539  bocLogger  INFO: done.
+2015-07-21 17:04:49,539  bocLogger  INFO: install tomcat.
+2015-07-21 17:04:49,652  bocLogger  INFO: done.
+2015-07-22 10:27:55,774  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 10:27:56,442  bocLogger  WARNING: httpd is already installed.
+2015-07-22 10:27:56,976  bocLogger  WARNING: php is already installed.
+2015-07-22 10:27:57,499  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 10:27:58,021  bocLogger  WARNING: curl is already installed.
+2015-07-22 10:27:58,022  bocLogger  INFO: step1: install rpms.
+2015-07-22 10:28:08,558  bocLogger  INFO: step2: install zip files.
+2015-07-22 10:28:08,558  bocLogger  INFO: install mysql.
+2015-07-22 10:28:30,843  bocLogger  INFO: done
+2015-07-22 10:28:30,843  bocLogger  INFO: install bocwebapp.
+2015-07-22 10:28:30,875  bocLogger  INFO: done.
+2015-07-22 10:28:31,174  bocLogger  INFO: done.
+2015-07-22 10:28:31,174  bocLogger  INFO: install tomcat.
+2015-07-22 10:28:31,288  bocLogger  INFO: done.
+2015-07-22 10:28:31,288  bocLogger  ERROR: create symble link error: [Errno 17] File exists
+2015-07-22 10:35:16,219  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 10:35:16,818  bocLogger  WARNING: httpd is already installed.
+2015-07-22 10:35:17,353  bocLogger  WARNING: php is already installed.
+2015-07-22 10:35:17,865  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 10:35:18,394  bocLogger  WARNING: curl is already installed.
+2015-07-22 10:35:18,394  bocLogger  INFO: step1: install rpms.
+2015-07-22 10:35:19,332  bocLogger  INFO: step2: install zip files.
+2015-07-22 10:35:19,332  bocLogger  INFO: install mysql.
+2015-07-22 10:35:40,693  bocLogger  INFO: done
+2015-07-22 10:35:40,693  bocLogger  INFO: install bocwebapp.
+2015-07-22 10:35:40,722  bocLogger  INFO: done.
+2015-07-22 10:35:41,025  bocLogger  INFO: done.
+2015-07-22 10:35:41,026  bocLogger  INFO: install tomcat.
+2015-07-22 10:35:41,142  bocLogger  INFO: done.
+2015-07-22 10:35:41,143  bocLogger  WARNING: symble link already exists.
+2015-07-22 10:36:54,509  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 10:36:55,091  bocLogger  WARNING: httpd is already installed.
+2015-07-22 10:36:55,632  bocLogger  WARNING: php is already installed.
+2015-07-22 10:36:56,148  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 10:36:56,655  bocLogger  WARNING: curl is already installed.
+2015-07-22 10:36:56,655  bocLogger  INFO: step1: install rpms.
+2015-07-22 10:36:57,504  bocLogger  INFO: step2: install zip files.
+2015-07-22 10:36:57,504  bocLogger  INFO: install mysql.
+2015-07-22 10:37:17,736  bocLogger  INFO: done
+2015-07-22 10:37:17,737  bocLogger  INFO: install bocwebapp.
+2015-07-22 10:37:17,786  bocLogger  INFO: done.
+2015-07-22 10:37:18,133  bocLogger  INFO: done.
+2015-07-22 10:37:18,134  bocLogger  INFO: install tomcat.
+2015-07-22 10:37:18,214  bocLogger  INFO: done.
+2015-07-22 10:37:18,215  bocLogger  WARNING: symble link already exists.
+2015-07-22 10:38:39,448  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 10:38:39,969  bocLogger  WARNING: httpd is already installed.
+2015-07-22 10:38:40,496  bocLogger  WARNING: php is already installed.
+2015-07-22 10:38:41,052  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 10:38:41,628  bocLogger  WARNING: curl is already installed.
+2015-07-22 10:38:41,629  bocLogger  INFO: step1: install rpms.
+2015-07-22 10:38:48,380  bocLogger  INFO: step2: install zip files.
+2015-07-22 10:38:48,381  bocLogger  INFO: install mysql.
+2015-07-22 10:39:11,005  bocLogger  INFO: done
+2015-07-22 10:39:11,006  bocLogger  INFO: install bocwebapp.
+2015-07-22 10:39:11,035  bocLogger  INFO: done.
+2015-07-22 10:39:11,321  bocLogger  INFO: done.
+2015-07-22 10:39:11,321  bocLogger  INFO: install tomcat.
+2015-07-22 10:39:11,434  bocLogger  INFO: done.
+2015-07-22 10:39:11,434  bocLogger  WARNING: symble link already exists.
+2015-07-22 11:37:48,178  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 11:37:51,235  bocLogger  WARNING: httpd is already installed.
+2015-07-22 11:37:52,464  bocLogger  WARNING: php is already installed.
+2015-07-22 11:37:53,169  bocLogger  INFO: php-pear is not exists!
+2015-07-22 11:37:53,170  bocLogger  INFO: [32mpassed![0m
+2015-07-22 11:37:53,726  bocLogger  WARNING: curl is already installed.
+2015-07-22 11:37:53,726  bocLogger  INFO: step1: install rpms.
+2015-07-22 11:38:00,960  bocLogger  INFO: step2: install zip files.
+2015-07-22 11:38:00,966  bocLogger  INFO: install mysql.
+2015-07-22 11:41:12,899  bocLogger  INFO: done
+2015-07-22 11:41:12,899  bocLogger  INFO: install bocwebapp.
+2015-07-22 11:41:12,903  bocLogger  INFO: done.
+2015-07-22 11:41:13,290  bocLogger  INFO: done.
+2015-07-22 11:41:13,291  bocLogger  INFO: install tomcat.
+2015-07-22 11:41:13,841  bocLogger  INFO: done.
+2015-07-22 12:16:11,434  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 12:16:12,442  bocLogger  WARNING: httpd is already installed.
+2015-07-22 12:16:13,020  bocLogger  WARNING: php is already installed.
+2015-07-22 12:16:13,600  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 12:16:14,167  bocLogger  WARNING: curl is already installed.
+2015-07-22 12:16:14,168  bocLogger  INFO: step1: install rpms.
+2015-07-22 12:16:14,794  bocLogger  INFO: step2: install zip files.
+2015-07-22 12:16:14,795  bocLogger  INFO: install mysql.
+2015-07-22 12:16:39,886  bocLogger  INFO: done
+2015-07-22 12:16:39,887  bocLogger  INFO: install bocwebapp.
+2015-07-22 12:16:39,917  bocLogger  INFO: done.
+2015-07-22 12:16:40,236  bocLogger  INFO: done.
+2015-07-22 12:16:40,236  bocLogger  INFO: install tomcat.
+2015-07-22 12:16:40,463  bocLogger  INFO: done.
+2015-07-22 12:16:40,464  bocLogger  WARNING: symble link already exists.
+2015-07-22 12:42:25,442  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 12:42:26,593  bocLogger  WARNING: httpd is already installed.
+2015-07-22 12:42:27,642  bocLogger  WARNING: php is already installed.
+2015-07-22 12:42:28,230  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 12:42:28,786  bocLogger  WARNING: curl is already installed.
+2015-07-22 12:42:28,786  bocLogger  INFO: step1: install rpms.
+2015-07-22 12:42:28,970  bocLogger  ERROR: exec: yum -y install httpd php php-pear curl error
+2015-07-22 12:42:40,320  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 12:42:41,287  bocLogger  WARNING: httpd is already installed.
+2015-07-22 12:42:41,827  bocLogger  WARNING: php is already installed.
+2015-07-22 12:42:42,421  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 12:42:43,165  bocLogger  WARNING: curl is already installed.
+2015-07-22 12:42:43,166  bocLogger  INFO: step1: install rpms.
+2015-07-22 12:42:43,639  bocLogger  INFO: step2: install zip files.
+2015-07-22 12:42:43,640  bocLogger  INFO: install mysql.
+2015-07-22 12:43:13,976  bocLogger  INFO: done
+2015-07-22 12:43:13,977  bocLogger  WARNING: symble link already exists.
+2015-07-22 12:44:41,948  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 12:44:42,868  bocLogger  WARNING: httpd is already installed.
+2015-07-22 12:44:43,570  bocLogger  WARNING: php is already installed.
+2015-07-22 12:44:44,184  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 12:44:44,721  bocLogger  WARNING: curl is already installed.
+2015-07-22 12:44:44,721  bocLogger  INFO: step1: install rpms.
+2015-07-22 12:44:45,013  bocLogger  INFO: step2: install zip files.
+2015-07-22 12:44:45,013  bocLogger  INFO: install mysql.
+2015-07-22 12:45:07,815  bocLogger  INFO: done
+2015-07-22 12:45:07,816  bocLogger  WARNING: symble link already exists.
+2015-07-22 12:46:26,029  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 12:46:26,961  bocLogger  WARNING: httpd is already installed.
+2015-07-22 12:46:27,487  bocLogger  WARNING: php is already installed.
+2015-07-22 12:46:28,271  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 12:46:28,810  bocLogger  WARNING: curl is already installed.
+2015-07-22 12:46:28,810  bocLogger  INFO: step1: install rpms.
+2015-07-22 12:46:29,049  bocLogger  INFO: step2: install zip files.
+2015-07-22 12:46:29,050  bocLogger  INFO: install mysql.
+2015-07-22 12:46:58,238  bocLogger  INFO: done
+2015-07-22 12:46:58,239  bocLogger  WARNING: symble link already exists.
+2015-07-22 12:47:52,555  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 12:47:53,169  bocLogger  WARNING: httpd is already installed.
+2015-07-22 12:47:53,723  bocLogger  WARNING: php is already installed.
+2015-07-22 12:47:54,249  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 12:47:54,840  bocLogger  WARNING: curl is already installed.
+2015-07-22 12:47:54,840  bocLogger  INFO: step1: install rpms.
+2015-07-22 12:47:55,111  bocLogger  INFO: step2: install zip files.
+2015-07-22 12:47:55,111  bocLogger  INFO: install mysql.
+2015-07-22 12:48:15,947  bocLogger  INFO: done
+2015-07-22 12:48:15,948  bocLogger  WARNING: symble link already exists.
+2015-07-22 12:48:15,949  bocLogger  WARNING: symble link already exists.
+2015-07-22 12:48:15,949  bocLogger  INFO: install bocwebapp.
+2015-07-22 12:48:15,975  bocLogger  INFO: done.
+2015-07-22 12:48:16,267  bocLogger  INFO: done.
+2015-07-22 12:48:16,267  bocLogger  INFO: install tomcat.
+2015-07-22 12:48:16,376  bocLogger  INFO: done.
+2015-07-22 12:48:16,377  bocLogger  WARNING: symble link already exists.
+2015-07-22 12:48:16,377  bocLogger  ERROR: create symble link error: [Errno 17] File exists
+2015-07-22 12:50:00,814  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 12:50:01,886  bocLogger  WARNING: httpd is already installed.
+2015-07-22 12:50:02,497  bocLogger  WARNING: php is already installed.
+2015-07-22 12:50:03,058  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 12:50:03,639  bocLogger  WARNING: curl is already installed.
+2015-07-22 12:50:03,640  bocLogger  INFO: step1: install rpms.
+2015-07-22 12:50:03,908  bocLogger  INFO: step2: install zip files.
+2015-07-22 12:50:03,908  bocLogger  INFO: install mysql.
+2015-07-22 12:50:33,614  bocLogger  INFO: done
+2015-07-22 12:50:33,615  bocLogger  ERROR: create symble link error: [Errno 17] File exists
+2015-07-22 12:52:19,683  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 12:52:20,682  bocLogger  WARNING: httpd is already installed.
+2015-07-22 12:52:21,223  bocLogger  WARNING: php is already installed.
+2015-07-22 12:52:21,755  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 12:52:22,312  bocLogger  WARNING: curl is already installed.
+2015-07-22 12:52:22,313  bocLogger  INFO: step1: install rpms.
+2015-07-22 12:52:22,555  bocLogger  INFO: step2: install zip files.
+2015-07-22 12:52:22,556  bocLogger  INFO: install mysql.
+2015-07-22 12:52:47,662  bocLogger  INFO: done
+2015-07-22 12:52:47,663  bocLogger  ERROR: create symble link error: [Errno 17] File exists
+2015-07-22 12:53:37,641  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 12:53:38,201  bocLogger  WARNING: httpd is already installed.
+2015-07-22 12:53:38,781  bocLogger  WARNING: php is already installed.
+2015-07-22 12:53:39,308  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 12:53:39,851  bocLogger  WARNING: curl is already installed.
+2015-07-22 12:53:39,851  bocLogger  INFO: step1: install rpms.
+2015-07-22 12:53:40,095  bocLogger  INFO: step2: install zip files.
+2015-07-22 12:53:40,096  bocLogger  INFO: install mysql.
+2015-07-22 12:54:03,825  bocLogger  INFO: done
+2015-07-22 12:54:03,826  bocLogger  INFO: install bocwebapp.
+2015-07-22 12:54:03,858  bocLogger  INFO: done.
+2015-07-22 12:54:04,164  bocLogger  INFO: done.
+2015-07-22 12:54:04,164  bocLogger  INFO: install tomcat.
+2015-07-22 12:54:04,281  bocLogger  INFO: done.
+2015-07-22 12:54:04,282  bocLogger  ERROR: create symble link error: [Errno 17] File exists
+2015-07-22 12:54:58,186  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 12:54:58,788  bocLogger  WARNING: httpd is already installed.
+2015-07-22 12:54:59,359  bocLogger  WARNING: php is already installed.
+2015-07-22 12:54:59,918  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 12:55:00,464  bocLogger  WARNING: curl is already installed.
+2015-07-22 12:55:00,465  bocLogger  INFO: step1: install rpms.
+2015-07-22 12:55:00,726  bocLogger  INFO: step2: install zip files.
+2015-07-22 12:55:00,727  bocLogger  INFO: install mysql.
+2015-07-22 12:55:22,297  bocLogger  INFO: done
+2015-07-22 12:55:22,297  bocLogger  INFO: install bocwebapp.
+2015-07-22 12:55:22,323  bocLogger  INFO: done.
+2015-07-22 12:55:22,541  bocLogger  INFO: done.
+2015-07-22 12:55:22,542  bocLogger  INFO: install tomcat.
+2015-07-22 12:55:22,631  bocLogger  INFO: done.
+2015-07-22 12:55:22,632  bocLogger  ERROR: create symble link error: [Errno 17] File exists
+2015-07-22 12:56:06,062  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 12:56:07,173  bocLogger  WARNING: httpd is already installed.
+2015-07-22 12:56:07,738  bocLogger  WARNING: php is already installed.
+2015-07-22 12:56:08,262  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 12:56:08,779  bocLogger  WARNING: curl is already installed.
+2015-07-22 12:56:08,779  bocLogger  INFO: step1: install rpms.
+2015-07-22 12:56:09,024  bocLogger  INFO: step2: install zip files.
+2015-07-22 12:56:09,025  bocLogger  INFO: install mysql.
+2015-07-22 12:56:29,871  bocLogger  INFO: done
+2015-07-22 12:56:29,871  bocLogger  INFO: install bocwebapp.
+2015-07-22 12:56:29,898  bocLogger  INFO: done.
+2015-07-22 12:56:30,121  bocLogger  INFO: done.
+2015-07-22 12:56:30,122  bocLogger  INFO: install tomcat.
+2015-07-22 12:56:30,205  bocLogger  INFO: done.
+2015-07-22 12:56:30,205  bocLogger  ERROR: create symble link error: [Errno 17] File exists
+2015-07-22 12:58:48,833  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 12:58:49,880  bocLogger  WARNING: httpd is already installed.
+2015-07-22 12:58:50,442  bocLogger  WARNING: php is already installed.
+2015-07-22 12:58:51,407  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 12:58:52,129  bocLogger  WARNING: curl is already installed.
+2015-07-22 12:58:52,130  bocLogger  INFO: step1: install rpms.
+2015-07-22 12:58:52,619  bocLogger  INFO: step2: install zip files.
+2015-07-22 12:58:52,620  bocLogger  INFO: install mysql.
+2015-07-22 12:59:19,036  bocLogger  INFO: done
+2015-07-22 12:59:19,036  bocLogger  INFO: install bocwebapp.
+2015-07-22 12:59:19,064  bocLogger  INFO: done.
+2015-07-22 12:59:19,355  bocLogger  INFO: done.
+2015-07-22 12:59:19,356  bocLogger  INFO: install tomcat.
+2015-07-22 12:59:19,472  bocLogger  INFO: done.
+2015-07-22 13:00:42,134  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 13:00:43,046  bocLogger  WARNING: httpd is already installed.
+2015-07-22 13:00:43,589  bocLogger  WARNING: php is already installed.
+2015-07-22 13:00:44,099  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 13:00:44,616  bocLogger  WARNING: curl is already installed.
+2015-07-22 13:00:44,617  bocLogger  INFO: step1: install rpms.
+2015-07-22 13:00:44,851  bocLogger  INFO: step2: install zip files.
+2015-07-22 13:00:44,852  bocLogger  INFO: install mysql.
+2015-07-22 13:01:12,440  bocLogger  INFO: done
+2015-07-22 13:01:12,441  bocLogger  INFO: install bocwebapp.
+2015-07-22 13:01:12,471  bocLogger  INFO: done.
+2015-07-22 13:01:12,813  bocLogger  INFO: done.
+2015-07-22 13:01:12,813  bocLogger  INFO: install tomcat.
+2015-07-22 13:01:12,932  bocLogger  INFO: done.
+2015-07-22 13:05:35,681  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 13:05:36,643  bocLogger  WARNING: httpd is already installed.
+2015-07-22 13:05:37,197  bocLogger  WARNING: php is already installed.
+2015-07-22 13:05:37,709  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 13:05:38,220  bocLogger  WARNING: curl is already installed.
+2015-07-22 13:05:38,221  bocLogger  INFO: step1: install rpms.
+2015-07-22 13:05:38,450  bocLogger  INFO: step2: install zip files.
+2015-07-22 13:05:38,451  bocLogger  INFO: install mysql.
+2015-07-22 13:06:07,527  bocLogger  INFO: done
+2015-07-22 13:06:07,527  bocLogger  INFO: install bocwebapp.
+2015-07-22 13:06:07,563  bocLogger  INFO: done.
+2015-07-22 13:06:07,899  bocLogger  INFO: done.
+2015-07-22 13:06:07,899  bocLogger  INFO: install tomcat.
+2015-07-22 13:06:08,018  bocLogger  INFO: done.
+2015-07-22 13:06:08,019  bocLogger  ERROR: create symble link error: [Errno 17] File exists
+2015-07-22 13:10:53,622  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 13:10:54,422  bocLogger  WARNING: httpd is already installed.
+2015-07-22 13:10:54,956  bocLogger  WARNING: php is already installed.
+2015-07-22 13:10:56,173  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 13:10:57,282  bocLogger  WARNING: curl is already installed.
+2015-07-22 13:10:57,283  bocLogger  INFO: step1: install rpms.
+2015-07-22 13:10:57,539  bocLogger  INFO: step2: install zip files.
+2015-07-22 13:10:57,539  bocLogger  INFO: install mysql.
+2015-07-22 13:11:29,920  bocLogger  INFO: done
+2015-07-22 13:11:29,921  bocLogger  INFO: install bocwebapp.
+2015-07-22 13:11:29,949  bocLogger  INFO: done.
+2015-07-22 13:11:30,242  bocLogger  INFO: done.
+2015-07-22 13:11:30,242  bocLogger  INFO: install tomcat.
+2015-07-22 13:11:30,356  bocLogger  INFO: done.
+2015-07-22 13:11:30,357  bocLogger  ERROR: create symble link error: [Errno 17] File exists
+2015-07-22 13:12:43,443  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 13:12:44,071  bocLogger  WARNING: httpd is already installed.
+2015-07-22 13:12:44,617  bocLogger  WARNING: php is already installed.
+2015-07-22 13:12:45,129  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 13:12:45,668  bocLogger  WARNING: curl is already installed.
+2015-07-22 13:12:45,669  bocLogger  INFO: step1: install rpms.
+2015-07-22 13:12:45,958  bocLogger  INFO: step2: install zip files.
+2015-07-22 13:12:45,958  bocLogger  INFO: install mysql.
+2015-07-22 13:13:13,571  bocLogger  INFO: done
+2015-07-22 13:13:13,571  bocLogger  INFO: install bocwebapp.
+2015-07-22 13:13:13,602  bocLogger  INFO: done.
+2015-07-22 13:13:13,945  bocLogger  INFO: done.
+2015-07-22 13:13:13,945  bocLogger  INFO: install tomcat.
+2015-07-22 13:13:14,071  bocLogger  INFO: done.
+2015-07-22 13:13:14,072  bocLogger  ERROR: create symble link error: [Errno 17] File exists
+2015-07-22 13:14:26,878  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 13:14:27,882  bocLogger  WARNING: httpd is already installed.
+2015-07-22 13:14:28,413  bocLogger  WARNING: php is already installed.
+2015-07-22 13:14:28,943  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 13:14:29,723  bocLogger  WARNING: curl is already installed.
+2015-07-22 13:14:29,724  bocLogger  INFO: step1: install rpms.
+2015-07-22 13:14:30,110  bocLogger  INFO: step2: install zip files.
+2015-07-22 13:14:30,111  bocLogger  INFO: install mysql.
+2015-07-22 13:14:51,647  bocLogger  INFO: done
+2015-07-22 13:14:51,648  bocLogger  INFO: install bocwebapp.
+2015-07-22 13:14:51,674  bocLogger  INFO: done.
+2015-07-22 13:14:52,086  bocLogger  INFO: done.
+2015-07-22 13:14:52,087  bocLogger  INFO: install tomcat.
+2015-07-22 13:14:52,289  bocLogger  INFO: done.
+2015-07-22 13:15:34,893  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 13:15:35,564  bocLogger  WARNING: httpd is already installed.
+2015-07-22 13:15:36,168  bocLogger  WARNING: php is already installed.
+2015-07-22 13:15:36,742  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 13:15:37,383  bocLogger  WARNING: curl is already installed.
+2015-07-22 13:15:37,384  bocLogger  INFO: step1: install rpms.
+2015-07-22 13:15:37,646  bocLogger  INFO: step2: install zip files.
+2015-07-22 13:15:37,647  bocLogger  INFO: install mysql.
+2015-07-22 13:16:07,804  bocLogger  INFO: done
+2015-07-22 13:16:07,805  bocLogger  INFO: install bocwebapp.
+2015-07-22 13:16:07,834  bocLogger  INFO: done.
+2015-07-22 13:16:08,138  bocLogger  INFO: done.
+2015-07-22 13:16:08,138  bocLogger  INFO: install tomcat.
+2015-07-22 13:16:08,257  bocLogger  INFO: done.
+2015-07-22 13:16:08,257  bocLogger  WARNING: symble link already exists.
+2015-07-22 13:38:14,043  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 13:38:14,989  bocLogger  WARNING: httpd is already installed.
+2015-07-22 13:38:15,525  bocLogger  WARNING: php is already installed.
+2015-07-22 13:38:16,465  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 13:38:17,048  bocLogger  WARNING: curl is already installed.
+2015-07-22 13:38:17,049  bocLogger  INFO: step1: install rpms.
+2015-07-22 13:38:17,374  bocLogger  INFO: step2: install zip files.
+2015-07-22 13:38:17,375  bocLogger  INFO: install mysql.
+2015-07-22 13:38:43,591  bocLogger  INFO: done
+2015-07-22 13:38:43,592  bocLogger  INFO: install bocwebapp.
+2015-07-22 13:38:43,621  bocLogger  INFO: done.
+2015-07-22 13:38:43,927  bocLogger  INFO: done.
+2015-07-22 13:38:43,928  bocLogger  INFO: install tomcat.
+2015-07-22 13:38:46,085  bocLogger  INFO: done.
+2015-07-22 13:38:46,085  bocLogger  WARNING: symble link already exists.
+2015-07-22 14:06:13,045  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 14:06:14,270  bocLogger  WARNING: httpd is already installed.
+2015-07-22 14:06:15,543  bocLogger  WARNING: php is already installed.
+2015-07-22 14:06:16,783  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 14:06:17,861  bocLogger  WARNING: curl is already installed.
+2015-07-22 14:06:17,861  bocLogger  INFO: step1: install rpms.
+2015-07-22 14:06:18,124  bocLogger  INFO: step2: install zip files.
+2015-07-22 14:06:18,125  bocLogger  INFO: install mysql.
+2015-07-22 14:06:47,527  bocLogger  INFO: done
+2015-07-22 14:06:47,528  bocLogger  WARNING: symble link already exists.
+2015-07-22 14:06:47,530  bocLogger  INFO: install bocwebapp.
+2015-07-22 14:06:47,590  bocLogger  INFO: done.
+2015-07-22 14:06:47,977  bocLogger  INFO: done.
+2015-07-22 14:06:47,977  bocLogger  INFO: install tomcat.
+2015-07-22 14:06:48,085  bocLogger  INFO: done.
+2015-07-22 14:06:48,086  bocLogger  WARNING: symble link already exists.
+2015-07-22 14:06:48,086  bocLogger  INFO: install bocsysadmin.
+2015-07-22 14:12:14,746  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 14:12:15,547  bocLogger  WARNING: httpd is already installed.
+2015-07-22 14:12:16,095  bocLogger  WARNING: php is already installed.
+2015-07-22 14:12:16,642  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 14:12:17,193  bocLogger  WARNING: curl is already installed.
+2015-07-22 14:12:17,193  bocLogger  INFO: step1: install rpms.
+2015-07-22 14:12:17,449  bocLogger  INFO: step2: install zip files.
+2015-07-22 14:12:17,449  bocLogger  INFO: install mysql.
+2015-07-22 14:12:41,166  bocLogger  INFO: done
+2015-07-22 14:12:41,167  bocLogger  WARNING: symble link already exists.
+2015-07-22 14:12:41,168  bocLogger  INFO: install bocwebapp.
+2015-07-22 14:12:41,244  bocLogger  INFO: done.
+2015-07-22 14:12:41,891  bocLogger  INFO: done.
+2015-07-22 14:12:41,891  bocLogger  INFO: install tomcat.
+2015-07-22 14:12:42,032  bocLogger  INFO: done.
+2015-07-22 14:12:42,032  bocLogger  WARNING: symble link already exists.
+2015-07-22 14:12:42,033  bocLogger  INFO: install bocsysadmin.
+2015-07-22 14:14:00,517  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 14:14:01,775  bocLogger  WARNING: httpd is already installed.
+2015-07-22 14:14:02,746  bocLogger  WARNING: php is already installed.
+2015-07-22 14:14:03,444  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 14:14:04,082  bocLogger  WARNING: curl is already installed.
+2015-07-22 14:14:04,083  bocLogger  INFO: step1: install rpms.
+2015-07-22 14:14:04,399  bocLogger  INFO: step2: install zip files.
+2015-07-22 14:14:04,400  bocLogger  INFO: install mysql.
+2015-07-22 14:14:30,645  bocLogger  INFO: done
+2015-07-22 14:14:30,645  bocLogger  WARNING: symble link already exists.
+2015-07-22 14:14:30,646  bocLogger  INFO: install bocwebapp.
+2015-07-22 14:14:30,676  bocLogger  INFO: done.
+2015-07-22 14:14:30,991  bocLogger  INFO: done.
+2015-07-22 14:14:30,991  bocLogger  INFO: install tomcat.
+2015-07-22 14:14:31,112  bocLogger  INFO: done.
+2015-07-22 14:14:31,113  bocLogger  WARNING: symble link already exists.
+2015-07-22 14:14:31,113  bocLogger  INFO: install bocsysadmin.
+2015-07-22 14:14:31,779  bocLogger  INFO: done.
+2015-07-22 14:14:31,780  bocLogger  INFO: do post verify, check all is ready.
+2015-07-22 14:14:31,780  bocLogger  INFO: checking package: mysql
+2015-07-22 14:14:31,781  bocLogger  INFO: passed!
+2015-07-22 14:14:31,781  bocLogger  INFO: checking package: tomcat6
+2015-07-22 14:14:31,781  bocLogger  INFO: passed!
+2015-07-22 14:14:31,781  bocLogger  INFO: checking package: tomcat6/webapps/bocsysadmin
+2015-07-22 14:14:31,781  bocLogger  INFO: passed!
+2015-07-22 14:14:31,782  bocLogger  INFO: checking package: /var/www/bocwebapp
+2015-07-22 14:14:31,782  bocLogger  ERROR: install /var/www/bocwebapperror.please install again.
+2015-07-22 14:16:48,939  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 14:16:49,489  bocLogger  WARNING: httpd is already installed.
+2015-07-22 14:16:50,049  bocLogger  WARNING: php is already installed.
+2015-07-22 14:16:50,588  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 14:16:51,285  bocLogger  WARNING: curl is already installed.
+2015-07-22 14:16:51,286  bocLogger  INFO: step1: install rpms.
+2015-07-22 14:16:51,547  bocLogger  INFO: step2: install zip files.
+2015-07-22 14:16:51,548  bocLogger  INFO: install mysql.
+2015-07-22 14:17:10,751  bocLogger  INFO: done
+2015-07-22 14:17:10,752  bocLogger  WARNING: symble link already exists.
+2015-07-22 14:17:10,752  bocLogger  INFO: install bocwebapp.
+2015-07-22 14:17:10,782  bocLogger  INFO: done.
+2015-07-22 14:17:11,023  bocLogger  INFO: done.
+2015-07-22 14:17:11,023  bocLogger  INFO: install tomcat.
+2015-07-22 14:17:11,112  bocLogger  INFO: done.
+2015-07-22 14:17:11,112  bocLogger  WARNING: symble link already exists.
+2015-07-22 14:17:11,113  bocLogger  INFO: install bocsysadmin.
+2015-07-22 14:17:11,634  bocLogger  INFO: done.
+2015-07-22 14:17:11,634  bocLogger  INFO: do post verify, check all is ready.
+2015-07-22 14:17:11,634  bocLogger  INFO: checking package: /opt/magima/mysql
+2015-07-22 14:17:11,635  bocLogger  INFO: passed!
+2015-07-22 14:17:11,635  bocLogger  INFO: checking package: /opt/magima/tomcat6
+2015-07-22 14:17:11,635  bocLogger  INFO: passed!
+2015-07-22 14:17:11,635  bocLogger  INFO: checking package: /opt/magima/tomcat6/webapps/bocsysadmin
+2015-07-22 14:17:11,635  bocLogger  INFO: passed!
+2015-07-22 14:17:11,636  bocLogger  INFO: checking package: /var/www/bocwebapp
+2015-07-22 14:17:11,636  bocLogger  INFO: passed!
+2015-07-22 14:27:01,719  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 14:27:02,809  bocLogger  WARNING: httpd is already installed.
+2015-07-22 14:27:03,442  bocLogger  WARNING: php is already installed.
+2015-07-22 14:27:04,119  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 14:27:04,673  bocLogger  WARNING: curl is already installed.
+2015-07-22 14:27:04,674  bocLogger  INFO: step1: install rpms.
+2015-07-22 14:27:05,067  bocLogger  INFO: step2: install zip files.
+2015-07-22 14:27:05,068  bocLogger  INFO: install mysql.
+2015-07-22 14:27:29,774  bocLogger  INFO: done
+2015-07-22 14:27:29,774  bocLogger  WARNING: symble link already exists.
+2015-07-22 14:27:29,775  bocLogger  INFO: install bocwebapp.
+2015-07-22 14:27:29,803  bocLogger  INFO: done.
+2015-07-22 14:27:30,099  bocLogger  INFO: done.
+2015-07-22 14:27:30,100  bocLogger  INFO: install tomcat.
+2015-07-22 14:27:30,213  bocLogger  INFO: done.
+2015-07-22 14:27:30,213  bocLogger  WARNING: symble link already exists.
+2015-07-22 14:27:30,214  bocLogger  INFO: install bocsysadmin.
+2015-07-22 14:27:30,880  bocLogger  INFO: done.
+2015-07-22 14:27:30,881  bocLogger  INFO: do post verify, check all is ready.
+2015-07-22 14:27:30,881  bocLogger  INFO: checking package: /opt/magima/mysql
+2015-07-22 14:27:30,881  bocLogger  INFO: passed!
+2015-07-22 14:27:30,881  bocLogger  INFO: checking package: /opt/magima/tomcat6
+2015-07-22 14:27:30,881  bocLogger  INFO: passed!
+2015-07-22 14:27:30,881  bocLogger  INFO: checking package: /opt/magima/tomcat6/webapps/bocsysadmin
+2015-07-22 14:27:30,882  bocLogger  INFO: passed!
+2015-07-22 14:27:30,882  bocLogger  INFO: checking package: /var/www/bocwebapp
+2015-07-22 14:27:30,882  bocLogger  INFO: passed!
+2015-07-22 14:29:13,922  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-22 14:29:14,773  bocLogger  WARNING: httpd is already installed.
+2015-07-22 14:29:15,293  bocLogger  WARNING: php is already installed.
+2015-07-22 14:29:15,812  bocLogger  WARNING: php-pear is already installed.
+2015-07-22 14:29:16,327  bocLogger  WARNING: curl is already installed.
+2015-07-22 14:29:16,328  bocLogger  INFO: step1: install rpms.
+2015-07-22 14:29:16,815  bocLogger  INFO: step2: install zip files.
+2015-07-22 14:29:16,816  bocLogger  INFO: install mysql.
+2015-07-22 14:29:42,228  bocLogger  INFO: done
+2015-07-22 14:29:42,228  bocLogger  WARNING: symble link already exists.
+2015-07-22 14:29:42,229  bocLogger  INFO: install bocwebapp.
+2015-07-22 14:29:42,257  bocLogger  INFO: done.
+2015-07-22 14:29:42,556  bocLogger  INFO: done.
+2015-07-22 14:29:42,556  bocLogger  INFO: install tomcat.
+2015-07-22 14:29:42,675  bocLogger  INFO: done.
+2015-07-22 14:29:42,676  bocLogger  WARNING: symble link already exists.
+2015-07-22 14:29:42,676  bocLogger  INFO: install bocsysadmin.
+2015-07-22 14:29:43,362  bocLogger  INFO: done.
+2015-07-22 14:29:43,365  bocLogger  INFO: do post verify, check all is ready.
+2015-07-22 14:29:43,365  bocLogger  INFO: checking package: /opt/magima/mysql
+2015-07-22 14:29:43,366  bocLogger  INFO: passed!
+2015-07-22 14:29:43,366  bocLogger  INFO: checking package: /opt/magima/tomcat6
+2015-07-22 14:29:43,366  bocLogger  INFO: passed!
+2015-07-22 14:29:43,367  bocLogger  INFO: checking package: /opt/magima/tomcat6/webapps/bocsysadmin
+2015-07-22 14:29:43,367  bocLogger  INFO: passed!
+2015-07-22 14:29:43,367  bocLogger  INFO: checking package: /var/www/bocwebapp
+2015-07-22 14:29:43,367  bocLogger  INFO: passed!
+2015-07-23 13:50:45,341  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-23 13:52:53,586  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-23 13:52:54,205  bocLogger  INFO: httpd is not exists!
+2015-07-23 13:52:54,206  bocLogger  INFO: [32mpassed![0m
+2015-07-23 13:52:54,765  bocLogger  INFO: php is not exists!
+2015-07-23 13:52:54,766  bocLogger  INFO: [32mpassed![0m
+2015-07-23 13:52:55,283  bocLogger  INFO: php-pear is not exists!
+2015-07-23 13:52:55,284  bocLogger  INFO: [32mpassed![0m
+2015-07-23 13:52:55,804  bocLogger  WARNING: curl is already installed.
+2015-07-23 13:52:55,805  bocLogger  INFO: step1: install rpms.
+2015-07-23 13:53:14,310  bocLogger  INFO: step2: install zip files.
+2015-07-23 13:53:14,311  bocLogger  INFO: install mysql.
+2015-07-23 13:53:47,753  bocLogger  INFO: done
+2015-07-23 13:53:47,754  bocLogger  INFO: install bocwebapp.
+2015-07-23 13:53:47,758  bocLogger  INFO: done.
+2015-07-23 13:53:48,280  bocLogger  INFO: done.
+2015-07-23 13:53:48,280  bocLogger  INFO: install tomcat.
+2015-07-23 13:53:48,586  bocLogger  INFO: done.
+2015-07-23 13:53:48,586  bocLogger  INFO: install bocsysadmin.
+2015-07-23 13:53:51,678  bocLogger  INFO: done.
+2015-07-23 13:53:51,679  bocLogger  INFO: do post verify, check all is ready.
+2015-07-23 13:53:51,679  bocLogger  INFO: checking package: /opt/magima/mysql
+2015-07-23 13:53:51,679  bocLogger  INFO: passed!
+2015-07-23 13:53:51,679  bocLogger  INFO: checking package: /opt/magima/tomcat6
+2015-07-23 13:53:51,680  bocLogger  INFO: passed!
+2015-07-23 13:53:51,680  bocLogger  INFO: checking package: /opt/magima/tomcat6/webapps/bocsysadmin
+2015-07-23 13:53:51,680  bocLogger  INFO: passed!
+2015-07-23 13:53:51,680  bocLogger  INFO: checking package: /var/www/bocwebapp
+2015-07-23 13:53:51,681  bocLogger  INFO: passed!
+2015-07-23 14:57:00,060  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-23 14:57:00,793  bocLogger  WARNING: httpd is already installed.
+2015-07-23 14:57:01,317  bocLogger  WARNING: php is already installed.
+2015-07-23 14:57:01,867  bocLogger  WARNING: php-pear is already installed.
+2015-07-23 14:57:02,389  bocLogger  WARNING: curl is already installed.
+2015-07-23 14:57:02,390  bocLogger  INFO: step1: install rpms.
+2015-07-23 14:57:02,703  bocLogger  INFO: step2: install zip files.
+2015-07-23 14:57:02,704  bocLogger  INFO: install mysql.
+2015-07-23 14:57:32,018  bocLogger  INFO: done
+2015-07-23 14:57:32,018  bocLogger  WARNING: symble link already exists.
+2015-07-23 14:57:32,019  bocLogger  INFO: install bocwebapp.
+2015-07-23 14:57:32,056  bocLogger  INFO: done.
+2015-07-23 14:57:32,382  bocLogger  INFO: done.
+2015-07-23 14:57:32,382  bocLogger  INFO: install tomcat.
+2015-07-23 14:57:32,512  bocLogger  INFO: done.
+2015-07-23 14:57:32,513  bocLogger  WARNING: symble link already exists.
+2015-07-23 14:57:32,513  bocLogger  INFO: install bocsysadmin.
+2015-07-23 14:57:33,240  bocLogger  INFO: done.
+2015-07-23 14:57:33,240  bocLogger  INFO: do post verify, check all is ready.
+2015-07-23 14:57:33,240  bocLogger  INFO: checking package: /opt/magima/mysql
+2015-07-23 14:57:33,241  bocLogger  INFO: passed!
+2015-07-23 14:57:33,241  bocLogger  INFO: checking package: /opt/magima/tomcat6
+2015-07-23 14:57:33,241  bocLogger  INFO: passed!
+2015-07-23 14:57:33,241  bocLogger  INFO: checking package: /opt/magima/tomcat6/webapps/bocsysadmin
+2015-07-23 14:57:33,241  bocLogger  INFO: passed!
+2015-07-23 14:57:33,242  bocLogger  INFO: checking package: /var/www/bocwebapp
+2015-07-23 14:57:33,242  bocLogger  INFO: passed!
+2015-07-23 14:59:54,284  bocLogger  INFO: install system db.
+2015-07-23 14:59:58,578  bocLogger  INFO: copy boot script to correct directory.
+2015-07-23 14:59:58,589  bocLogger  ERROR: sed update config error
+2015-07-23 15:04:03,854  bocLogger  INFO: install system db.
+2015-07-23 15:04:07,944  bocLogger  INFO: copy boot script to correct directory.
+2015-07-23 15:04:07,960  bocLogger  ERROR: sed update config error
+2015-07-23 15:23:36,438  bocLogger  INFO: install system db.
+2015-07-23 15:23:40,558  bocLogger  INFO: copy boot script to correct directory.
+2015-07-23 15:23:40,575  bocLogger  ERROR: sed update config error
+2015-07-23 15:28:50,476  bocLogger  INFO: install system db.
+2015-07-23 15:28:55,169  bocLogger  INFO: copy boot script to correct directory.
+2015-07-23 16:20:33,161  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-23 16:20:34,075  bocLogger  WARNING: httpd is already installed.
+2015-07-23 16:20:34,614  bocLogger  WARNING: php is already installed.
+2015-07-23 16:20:35,154  bocLogger  WARNING: php-pear is already installed.
+2015-07-23 16:20:35,721  bocLogger  WARNING: curl is already installed.
+2015-07-23 16:20:35,722  bocLogger  INFO: step1: install rpms.
+2015-07-23 16:20:36,349  bocLogger  INFO: step2: install zip files.
+2015-07-23 16:20:36,350  bocLogger  INFO: install mysql.
+2015-07-23 16:21:01,266  bocLogger  INFO: done
+2015-07-23 16:21:01,267  bocLogger  WARNING: symble link already exists.
+2015-07-23 16:21:01,267  bocLogger  INFO: install bocwebapp.
+2015-07-23 16:21:01,302  bocLogger  INFO: done.
+2015-07-23 16:21:01,606  bocLogger  INFO: done.
+2015-07-23 16:21:01,606  bocLogger  INFO: install tomcat.
+2015-07-23 16:21:01,726  bocLogger  INFO: done.
+2015-07-23 16:21:01,727  bocLogger  WARNING: symble link already exists.
+2015-07-23 16:21:01,727  bocLogger  INFO: install bocsysadmin.
+2015-07-23 16:21:02,605  bocLogger  INFO: done.
+2015-07-23 16:21:02,605  bocLogger  INFO: do post verify, check all is ready.
+2015-07-23 16:21:02,606  bocLogger  INFO: checking package: /opt/magima/mysql
+2015-07-23 16:21:02,606  bocLogger  INFO: passed!
+2015-07-23 16:21:02,606  bocLogger  INFO: checking package: /opt/magima/tomcat6
+2015-07-23 16:21:02,607  bocLogger  INFO: passed!
+2015-07-23 16:21:02,607  bocLogger  INFO: checking package: /opt/magima/tomcat6/webapps/bocsysadmin
+2015-07-23 16:21:02,607  bocLogger  INFO: passed!
+2015-07-23 16:21:02,608  bocLogger  INFO: checking package: /var/www/bocwebapp
+2015-07-23 16:21:02,608  bocLogger  INFO: passed!
+2015-07-23 16:21:02,611  bocLogger  INFO: install system db.
+2015-07-23 16:21:15,647  bocLogger  ERROR: exec ./scripts/mysql_install_db --user=mysql error!
+2015-07-23 16:31:33,444  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-23 16:31:34,103  bocLogger  WARNING: httpd is already installed.
+2015-07-23 16:31:34,662  bocLogger  WARNING: php is already installed.
+2015-07-23 16:31:35,223  bocLogger  WARNING: php-pear is already installed.
+2015-07-23 16:31:35,771  bocLogger  WARNING: curl is already installed.
+2015-07-23 16:31:35,772  bocLogger  INFO: step1: install rpms.
+2015-07-23 16:31:36,047  bocLogger  INFO: step2: install zip files.
+2015-07-23 16:31:36,048  bocLogger  INFO: install mysql.
+2015-07-23 16:32:01,690  bocLogger  INFO: done
+2015-07-23 16:32:01,691  bocLogger  WARNING: symble link already exists.
+2015-07-23 16:32:01,691  bocLogger  INFO: install bocwebapp.
+2015-07-23 16:32:01,723  bocLogger  INFO: done.
+2015-07-23 16:32:02,023  bocLogger  INFO: done.
+2015-07-23 16:32:02,024  bocLogger  INFO: install tomcat.
+2015-07-23 16:32:02,136  bocLogger  INFO: done.
+2015-07-23 16:32:02,136  bocLogger  WARNING: symble link already exists.
+2015-07-23 16:32:02,137  bocLogger  INFO: install bocsysadmin.
+2015-07-23 16:32:03,028  bocLogger  INFO: done.
+2015-07-23 16:32:03,029  bocLogger  INFO: do post verify, check all is ready.
+2015-07-23 16:32:03,030  bocLogger  INFO: checking package: /opt/magima/mysql
+2015-07-23 16:32:03,031  bocLogger  INFO: passed!
+2015-07-23 16:32:03,032  bocLogger  INFO: checking package: /opt/magima/tomcat6
+2015-07-23 16:32:03,033  bocLogger  INFO: passed!
+2015-07-23 16:32:03,033  bocLogger  INFO: checking package: /opt/magima/tomcat6/webapps/bocsysadmin
+2015-07-23 16:32:03,034  bocLogger  INFO: passed!
+2015-07-23 16:32:03,035  bocLogger  INFO: checking package: /var/www/bocwebapp
+2015-07-23 16:32:03,035  bocLogger  INFO: passed!
+2015-07-23 16:32:03,036  bocLogger  INFO: install system db.
+2015-07-23 16:32:07,219  bocLogger  INFO: copy boot script to correct directory.
+2015-07-23 16:52:45,223  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-23 16:52:45,920  bocLogger  WARNING: httpd is already installed.
+2015-07-23 16:52:46,475  bocLogger  WARNING: php is already installed.
+2015-07-23 16:52:46,999  bocLogger  WARNING: php-pear is already installed.
+2015-07-23 16:52:47,569  bocLogger  WARNING: curl is already installed.
+2015-07-23 16:52:47,570  bocLogger  INFO: step1: install rpms.
+2015-07-23 16:52:47,844  bocLogger  INFO: step2: install zip files.
+2015-07-23 16:52:47,845  bocLogger  INFO: install mysql.
+2015-07-23 16:53:10,407  bocLogger  INFO: done
+2015-07-23 16:53:10,408  bocLogger  WARNING: symble link already exists.
+2015-07-23 16:53:10,409  bocLogger  INFO: install bocwebapp.
+2015-07-23 16:53:10,437  bocLogger  INFO: done.
+2015-07-23 16:53:10,738  bocLogger  INFO: done.
+2015-07-23 16:53:10,739  bocLogger  INFO: install tomcat.
+2015-07-23 16:53:10,852  bocLogger  INFO: done.
+2015-07-23 16:53:10,853  bocLogger  WARNING: symble link already exists.
+2015-07-23 16:53:10,854  bocLogger  INFO: install bocsysadmin.
+2015-07-23 16:53:11,498  bocLogger  INFO: done.
+2015-07-23 16:53:11,498  bocLogger  INFO: do post verify, check all is ready.
+2015-07-23 16:53:11,499  bocLogger  INFO: checking package: /opt/magima/mysql
+2015-07-23 16:53:11,499  bocLogger  INFO: passed!
+2015-07-23 16:53:11,499  bocLogger  INFO: checking package: /opt/magima/tomcat6
+2015-07-23 16:53:11,499  bocLogger  INFO: passed!
+2015-07-23 16:53:11,499  bocLogger  INFO: checking package: /opt/magima/tomcat6/webapps/bocsysadmin
+2015-07-23 16:53:11,500  bocLogger  INFO: passed!
+2015-07-23 16:53:11,500  bocLogger  INFO: checking package: /var/www/bocwebapp
+2015-07-23 16:53:11,500  bocLogger  INFO: passed!
+2015-07-23 16:53:11,500  bocLogger  INFO: ============MYSQL DEFAULT CONFIG===========
+2015-07-23 16:53:11,501  bocLogger  INFO: install system db.
+2015-07-23 16:53:15,908  bocLogger  INFO: copy boot script to correct directory.
+2015-07-23 16:53:20,031  bocLogger  INFO: ==============TOMCAT DEFAULT CONFIG==============
+2015-07-23 16:53:20,032  bocLogger  INFO: copy tomcat bootscript to /etc/init.d/
+2015-07-23 16:54:07,525  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-23 16:54:08,083  bocLogger  WARNING: httpd is already installed.
+2015-07-23 16:54:08,625  bocLogger  WARNING: php is already installed.
+2015-07-23 16:54:09,153  bocLogger  WARNING: php-pear is already installed.
+2015-07-23 16:54:09,686  bocLogger  WARNING: curl is already installed.
+2015-07-23 16:54:09,686  bocLogger  INFO: step1: install rpms.
+2015-07-23 16:54:09,922  bocLogger  INFO: step2: install zip files.
+2015-07-23 16:54:09,923  bocLogger  INFO: install mysql.
+2015-07-23 16:54:30,789  bocLogger  INFO: done
+2015-07-23 16:54:30,790  bocLogger  WARNING: symble link already exists.
+2015-07-23 16:54:30,790  bocLogger  INFO: install bocwebapp.
+2015-07-23 16:54:30,816  bocLogger  INFO: done.
+2015-07-23 16:54:31,043  bocLogger  INFO: done.
+2015-07-23 16:54:31,044  bocLogger  INFO: install tomcat.
+2015-07-23 16:54:31,126  bocLogger  INFO: done.
+2015-07-23 16:54:31,126  bocLogger  WARNING: symble link already exists.
+2015-07-23 16:54:31,126  bocLogger  INFO: install bocsysadmin.
+2015-07-23 16:54:31,615  bocLogger  INFO: done.
+2015-07-23 16:54:31,615  bocLogger  INFO: do post verify, check all is ready.
+2015-07-23 16:54:31,615  bocLogger  INFO: checking package: /opt/magima/mysql
+2015-07-23 16:54:31,615  bocLogger  INFO: passed!
+2015-07-23 16:54:31,616  bocLogger  INFO: checking package: /opt/magima/tomcat6
+2015-07-23 16:54:31,616  bocLogger  INFO: passed!
+2015-07-23 16:54:31,617  bocLogger  INFO: checking package: /opt/magima/tomcat6/webapps/bocsysadmin
+2015-07-23 16:54:31,617  bocLogger  INFO: passed!
+2015-07-23 16:54:31,617  bocLogger  INFO: checking package: /var/www/bocwebapp
+2015-07-23 16:54:31,617  bocLogger  INFO: passed!
+2015-07-23 16:54:31,618  bocLogger  INFO: ============MYSQL DEFAULT CONFIG===========
+2015-07-23 16:54:31,618  bocLogger  INFO: install system db.
+2015-07-23 16:54:35,723  bocLogger  INFO: copy boot script to correct directory.
+2015-07-23 16:54:39,895  bocLogger  INFO: ==============TOMCAT DEFAULT CONFIG==============
+2015-07-23 16:54:39,896  bocLogger  INFO: copy tomcat bootscript to /etc/init.d/
+2015-07-23 16:54:39,896  bocLogger  ERROR: ...<type 'exceptions.NameError'>
+2015-07-23 16:54:39,897  bocLogger  ERROR: global name 'tomcat_bootstrap' is not defined
+2015-07-23 16:57:06,454  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-23 16:57:07,015  bocLogger  WARNING: httpd is already installed.
+2015-07-23 16:57:07,525  bocLogger  WARNING: php is already installed.
+2015-07-23 16:57:08,050  bocLogger  WARNING: php-pear is already installed.
+2015-07-23 16:57:08,583  bocLogger  WARNING: curl is already installed.
+2015-07-23 16:57:08,583  bocLogger  INFO: step1: install rpms.
+2015-07-23 16:57:08,816  bocLogger  INFO: step2: install zip files.
+2015-07-23 16:57:08,817  bocLogger  INFO: install mysql.
+2015-07-23 16:57:36,436  bocLogger  INFO: done
+2015-07-23 16:57:36,436  bocLogger  WARNING: symble link already exists.
+2015-07-23 16:57:36,437  bocLogger  INFO: install bocwebapp.
+2015-07-23 16:57:36,468  bocLogger  INFO: done.
+2015-07-23 16:57:36,883  bocLogger  INFO: done.
+2015-07-23 16:57:36,884  bocLogger  INFO: install tomcat.
+2015-07-23 16:57:37,070  bocLogger  INFO: done.
+2015-07-23 16:57:37,071  bocLogger  WARNING: symble link already exists.
+2015-07-23 16:57:37,072  bocLogger  INFO: install bocsysadmin.
+2015-07-23 16:57:38,020  bocLogger  INFO: done.
+2015-07-23 16:57:38,022  bocLogger  INFO: do post verify, check all is ready.
+2015-07-23 16:57:38,022  bocLogger  INFO: checking package: /opt/magima/mysql
+2015-07-23 16:57:38,023  bocLogger  INFO: passed!
+2015-07-23 16:57:38,024  bocLogger  INFO: checking package: /opt/magima/tomcat6
+2015-07-23 16:57:38,024  bocLogger  INFO: passed!
+2015-07-23 16:57:38,025  bocLogger  INFO: checking package: /opt/magima/tomcat6/webapps/bocsysadmin
+2015-07-23 16:57:38,025  bocLogger  INFO: passed!
+2015-07-23 16:57:38,026  bocLogger  INFO: checking package: /var/www/bocwebapp
+2015-07-23 16:57:38,026  bocLogger  INFO: passed!
+2015-07-23 16:57:38,027  bocLogger  INFO: ============MYSQL DEFAULT CONFIG===========
+2015-07-23 16:57:38,027  bocLogger  INFO: install system db.
+2015-07-23 16:57:43,136  bocLogger  INFO: copy boot script to correct directory.
+2015-07-23 16:57:47,263  bocLogger  INFO: ==============TOMCAT DEFAULT CONFIG==============
+2015-07-23 16:57:47,264  bocLogger  INFO: copy tomcat bootscript to /etc/init.d/
+2015-07-23 16:57:47,274  bocLogger  ERROR: exec /etc/init.d/tomcat6 start error!
+2015-07-23 16:58:33,480  bocLogger  INFO: do pre verify! check rpm packages is exists?
+2015-07-23 16:58:34,472  bocLogger  WARNING: httpd is already installed.
+2015-07-23 16:58:35,090  bocLogger  WARNING: php is already installed.
+2015-07-23 16:58:35,646  bocLogger  WARNING: php-pear is already installed.
+2015-07-23 16:58:36,204  bocLogger  WARNING: curl is already installed.
+2015-07-23 16:58:36,205  bocLogger  INFO: step1: install rpms.
+2015-07-23 16:58:36,467  bocLogger  INFO: step2: install zip files.
+2015-07-23 16:58:36,468  bocLogger  INFO: install mysql.
+2015-07-23 16:59:01,413  bocLogger  INFO: done
+2015-07-23 16:59:01,413  bocLogger  WARNING: symble link already exists.
+2015-07-23 16:59:01,414  bocLogger  INFO: install bocwebapp.
+2015-07-23 16:59:01,442  bocLogger  INFO: done.
+2015-07-23 16:59:01,754  bocLogger  INFO: done.
+2015-07-23 16:59:01,755  bocLogger  INFO: install tomcat.
+2015-07-23 16:59:01,869  bocLogger  INFO: done.
+2015-07-23 16:59:01,869  bocLogger  WARNING: symble link already exists.
+2015-07-23 16:59:01,869  bocLogger  INFO: install bocsysadmin.
+2015-07-23 16:59:02,670  bocLogger  INFO: done.
+2015-07-23 16:59:02,670  bocLogger  INFO: do post verify, check all is ready.
+2015-07-23 16:59:02,671  bocLogger  INFO: checking package: /opt/magima/mysql
+2015-07-23 16:59:02,671  bocLogger  INFO: passed!
+2015-07-23 16:59:02,672  bocLogger  INFO: checking package: /opt/magima/tomcat6
+2015-07-23 16:59:02,672  bocLogger  INFO: passed!
+2015-07-23 16:59:02,672  bocLogger  INFO: checking package: /opt/magima/tomcat6/webapps/bocsysadmin
+2015-07-23 16:59:02,672  bocLogger  INFO: passed!
+2015-07-23 16:59:02,673  bocLogger  INFO: checking package: /var/www/bocwebapp
+2015-07-23 16:59:02,673  bocLogger  INFO: passed!
+2015-07-23 16:59:02,673  bocLogger  INFO: ============MYSQL DEFAULT CONFIG===========
+2015-07-23 16:59:02,674  bocLogger  INFO: install system db.
+2015-07-23 16:59:06,752  bocLogger  INFO: copy boot script to correct directory.
+2015-07-23 16:59:10,882  bocLogger  INFO: ==============TOMCAT DEFAULT CONFIG==============
+2015-07-23 16:59:10,883  bocLogger  INFO: copy tomcat bootscript to /etc/init.d/
+2015-07-23 16:59:10,911  bocLogger  ERROR: exec sudo /etc/init.d/tomcat6 start error!
+2015-10-15 10:24:48,608  bocLogger  ERROR: send_http_request exception:HTTP Error 404: Not Found
+2015-10-15 10:25:06,797  bocLogger  ERROR: send_http_request exception:HTTP Error 404: Not Found
+2015-10-15 10:32:16,280  logger  ERROR: send_http_request exception:HTTP Error 404: Not Found
+2015-10-15 10:32:49,180  logger  ERROR: send_http_request exception:HTTP Error 404: Not Found
+2015-10-15 10:41:29,598  logger  ERROR: unknown url type: 
+2015-10-15 10:42:18,009  logger  ERROR: unknown url type: 
+2015-10-15 10:43:42,731  logger  ERROR: unknown url type: 
+2015-10-15 10:45:08,429  logger  ERROR: unknown url type: 
