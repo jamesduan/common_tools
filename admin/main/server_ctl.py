@@ -29,14 +29,17 @@ class LoginHandler(RequestHandler):
 
 	def post(self):
 
-		username = self.request.body_arguments['username'][0]
-		password = self.request.body_arguments['passwd'][0]
+		username = self.get_argument("username")
+		password = self.get_argument("password")
+
+		print username, password
 
 		if username == "jamesduan" and password == "bios_suererdlxmn":
 			print "login success and create session."
 			session = Session()
 			session.__setattr__('username', username)
 			print "write to page"
+			self.set_header("Access-Control-Allow-Origin", "*")
 			self.write(session.session_id + session.username)
 		else:
 			print "login error, please try again.!"
