@@ -1,5 +1,5 @@
 
-from SimpleXMLRPCServer import SimpleXMLRPCServer 
+from SimpleXMLRPCServer import SimpleXMLRPCServer
 import logging
 import os
 
