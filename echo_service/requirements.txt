@@ -1,0 +1,17 @@
+backports.ssl-match-hostname==3.4.0.2
+certifi==2015.9.6.2
+decorator==4.0.4
+ipython==4.0.0
+ipython-genutils==0.1.0
+path.py==8.1.2
+pexpect==4.0.1
+pickleshare==0.5
+psutil==3.2.2
+ptyprocess==0.5
+pyconvert==0.6.3
+pyrestful==0.4.1
+readline==6.2.4.1
+simplegeneric==0.8.1
+tornado==4.2.1
+torndb==0.3
+traitlets==4.0.0
